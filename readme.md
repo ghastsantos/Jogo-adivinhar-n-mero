@@ -11,10 +11,6 @@ Number guessing game using web development technologies. <br/>
 
 <br>
 
-<p align="center">
-  <img alt="Guess the number Game" src="./github/image.png"
-  width="100%">
-</p>
 
 ## 🚀 Technologies
 
